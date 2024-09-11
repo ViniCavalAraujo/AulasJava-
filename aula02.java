@@ -11,7 +11,7 @@ public class aula02{
         System.out.println(nome);
 
 
-        sc.close(); //se nao fechar ainda fica em uso da memória
+        sc.close(); //se nao fechar fica continua o uso da memória
 
 
 
