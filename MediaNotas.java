@@ -20,6 +20,8 @@ public class MediaNotas {
         double media = somaNotas / totalNotas; // Calcula a média
 
         System.out.println("A média das notas de " + nome + " é: " + media);
+
+        sc.close();
     }
 }
  

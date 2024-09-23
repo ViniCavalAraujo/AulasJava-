@@ -15,6 +15,11 @@ public class aula4 {
         System.out.println("Digite um numero : ");
         int num = lendoNumero.nextInt();
 
+        if(num == sorteio ){
+            System.out.println("Você acertou");
+            return;
+        }
+
         System.out.println("Numero aleatorio : "+ sorteio + " \nNumero digitado : " + num);
         lendoNumero.close();
     }

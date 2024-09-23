@@ -31,6 +31,8 @@ public class ex2aula4 {
         System.out.println("Nome3:"+nomes[2]);
         System.out.println("Nome4:"+nomes[3]);
         System.out.println("Nome5:"+nomes[4]);
+
+
         sc.close();
 
 

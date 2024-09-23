@@ -4,10 +4,12 @@ import java.util.Locale;
 public class ex1aula4 {
     
     public static void main(String []args) {
-        
+       
+        Scanner sc = new Scanner(System.in);
+
         Locale.setDefault(Locale.US);
 
-        Scanner sc = new Scanner(System.in);
+        
 
         String nome;
         double media=0 ;
@@ -30,9 +32,8 @@ public class ex1aula4 {
         media = somaNotas / i;
         System.out.println("Aluno" + nome+ "com média:" +media);
 
-       
-    sc.close();
-
+        
+        sc.close();
     }
 
     
