@@ -18,6 +18,9 @@ public class somaInfinita {
             System.out.println("Valor atual:"+soma);
 
         }
+
+        sc.close();
+
     }
     
 }

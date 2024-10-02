@@ -29,15 +29,9 @@ public class temperatura {
 
         System.out.println("Temperatura em F° :"+fah);
 
-        
 
-
-
-
-
-       
-      
-
+        sc.close();
+ 
 
     }
     

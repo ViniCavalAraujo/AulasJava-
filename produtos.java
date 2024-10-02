@@ -21,6 +21,8 @@ public class produtos {
         System.out.println("Total:"+total);
 
 
+        sc.close();
+
     }
     
 }

@@ -20,6 +20,8 @@ public class idade {
             System.out.println("Maior de idade");
         }
 
+        sc.close();
+
     }
     
 }

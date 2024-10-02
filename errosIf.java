@@ -25,7 +25,7 @@ public class errosIf {
                 int number = 10;
             
                 if (number > 0) {
-                    System.out.println("Number is positive")
+                    System.out.println("Number is positive");
                 }else {
                     System.out.println("Number is negative or zero");
                 }
@@ -36,6 +36,8 @@ public class errosIf {
                     System.out.println("Number is 5 or more");
                 }
             }
+
+         
             }
 
 

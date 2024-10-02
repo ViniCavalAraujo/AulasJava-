@@ -40,6 +40,8 @@ public class diasemana {
         
             
         }
+
+        sc.close();
     }
     
 }
