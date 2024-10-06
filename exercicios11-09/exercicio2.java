@@ -34,6 +34,7 @@ public class exercicio2 {
 			
 		}
 		
+		sc.close();
            
         }
 

@@ -15,6 +15,8 @@ public class exercicio4Idade {
         }else{
             System.out.println("Menor de idade");
         }
+
+        sc.close();
     }
     
 }

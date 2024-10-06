@@ -17,6 +17,8 @@ public class numerosrepetidos {
             vet[i] = Integer.parseInt(sc.nextLine());
            
         }
+
+   
        
 
 

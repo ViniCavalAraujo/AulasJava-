@@ -1,4 +1,4 @@
-public class aula12 {
+public class criandoMoto {
 
     public static void main(String[] args) {
         Fabricamoto moto = new Fabricamoto();

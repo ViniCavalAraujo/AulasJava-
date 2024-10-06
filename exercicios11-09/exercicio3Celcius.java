@@ -20,6 +20,8 @@ public class exercicio3Celcius {
         }else{
             System.out.println("Está congelando T.T ");
         }
+
+        sc.close();
     }
     
 }
