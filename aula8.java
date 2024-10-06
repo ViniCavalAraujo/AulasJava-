@@ -18,9 +18,9 @@ public class aula8 {
         }
 
         for(int i=1;i<nomes.length;i+=2){
-       // if(i%2==0){
-            System.out.println("Nomes posição par:"+nomes[i]);
-        //}
+      
+            System.out.println("Nomes posição par:"+nomes[i]); 
+        
         }
 
         sc.close();
